@@ -136,7 +136,8 @@
 
 <hr />
 
-![image](https://github.com/user-attachments/assets/dbb43c34-bec6-40a7-8e3a-21a743dad97e)
+![image](https://github.com/user-attachments/assets/3a7b87a1-07f1-4381-bc8f-fad5d88ee95e)
+
 
 <h2>FAQs</h2>
 <dl>
